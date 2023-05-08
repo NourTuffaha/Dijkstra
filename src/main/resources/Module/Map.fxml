@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane prefHeight="1000.0" prefWidth="1900.0" style="-fx-background-image: url('file:C:/Users/noura/Desktop/Uni/COMP336/Projectiii/src/main/resources/Module/4344305.jpg');" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Module.MainController">
+   <children>
+      <Pane fx:id="pane" layoutX="100.0" layoutY="10.0">
+         <children>
+            <ImageView fitHeight="824.0" fitWidth="1698.0" pickOnBounds="true">
+               <image>
+                  <Image url="@WMap.png" />
+               </image>
+            </ImageView>
+            <TextField fx:id="sourceCountry" editable="false" layoutX="654.0" layoutY="783.0" prefHeight="25.0" prefWidth="103.0" promptText="Source Country" />
+            <TextField fx:id="destinationCountry" editable="false" layoutX="771.0" layoutY="784.0" prefHeight="25.0" prefWidth="103.0" promptText="Destination Country" />
+         </children>
+      </Pane>
+      <Pane layoutX="600.0" layoutY="842.0">
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#252525" height="144.0" stroke="#8c8c8c" strokeType="INSIDE" strokeWidth="5.0" width="688.0" />
+            <TextArea fx:id="outputDestance" editable="false" layoutX="509.0" layoutY="50.0" prefHeight="45.0" prefWidth="170.0" promptText="Distance" />
+            <TableView fx:id="tableDetails" layoutX="260.0" layoutY="24.0" prefHeight="90.0" prefWidth="244.0">
+               <columns>
+                  <TableColumn fx:id="from" prefWidth="122.0" text="From">
+                     <styleClass>
+                        <String fx:value="buttonSetting" />
+                        <String fx:value="fillWhiteColor" />
+                        <String fx:value="border" />
+                     </styleClass>
+                  </TableColumn>
+                  <TableColumn fx:id="to" prefWidth="121.0" text="To">
+                     <styleClass>
+                        <String fx:value="buttonSetting" />
+                        <String fx:value="fillWhiteColor" />
+                        <String fx:value="border" />
+                     </styleClass>
+                  </TableColumn>
+               </columns>
+            </TableView>
+            <Label alignment="CENTER" layoutX="30.0" layoutY="27.0" prefHeight="17.0" prefWidth="60.0" style="-fx-background-color: linear-gradient(to bottom right, #CFCDCD, #737272); -fx-border-color: linear-gradient(to bottom right, #737272, #CFCDCD);" text="Source" textFill="WHITE" />
+            <Label layoutX="29.0" layoutY="60.0" style="-fx-background-color: linear-gradient(to bottom right, #737272, #CFCDCD); -fx-border-color: linear-gradient(to bottom right, #CFCDCD, #737272);" text="Destination" textFill="WHITE" />
+            <Button layoutX="109.0" layoutY="101.0" mnemonicParsing="false" onAction="#findPath" text="Find path" />
+            <Button layoutX="19.0" layoutY="100.0" mnemonicParsing="false" onAction="#clear" prefHeight="26.0" prefWidth="66.0" text="Reset" />
+            <ComboBox fx:id="sourceBox" layoutX="122.0" layoutY="21.0" prefHeight="25.0" prefWidth="124.0" />
+            <ComboBox fx:id="destBox" layoutX="122.0" layoutY="67.0" prefHeight="25.0" prefWidth="124.0" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

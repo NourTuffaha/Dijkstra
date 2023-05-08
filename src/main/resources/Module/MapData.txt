@@ -1,0 +1,118 @@
+50 67
+Palestine 31.046051 34.851612
+Cyprus 35.126413 33.429859
+Italy 41.87194 12.56738
+Germany 51.165691 10.451526
+Djibouti 11.825138 42.590275
+Denmark 56.26392 9.501785
+Dominica 15.414999 -61.370976
+Iraq 33.223191 43.679291
+Algeria 28.033886 1.659626
+Ecuador -1.831239 -78.183406
+Estonia 58.595272 25.013607
+Egypt 26.820553 30.802498
+Colombia 4.570868 -74.297333
+Eritrea 15.179384 39.782334
+Spain 40.463667 -3.74922
+Ethiopia 9.145 40.489673
+Finland 61.92411 25.748151
+Fiji -16.578193 179.414413
+Cuba 21.521757 -77.781167
+Venezuela 6.42375 -66.58973
+Chile -35.675147 -71.542969
+France 46.227638 2.213749
+Gabon -0.803689 11.609444
+India 20.593684 78.96288
+Thailand 15.870032 100.992541
+Georgia 42.315407 43.356892
+Ireland 53.41291 -8.24389
+Russia 61.52401 105.318756
+Ghana 7.946527 -1.023194
+Philippines 12.879721 121.774017
+Greenland 71.706936 -42.604303
+Gambia 13.443182 -15.310139
+Guinea 9.945587 -9.696645
+Oman 21.512583 55.923255
+Japan 36.204824 138.252924
+Greece 39.074208 21.824312
+Kuwait 29.31166 47.481766
+Guatemala 15.783471 -90.230759
+New-Zealand -40.900557 174.885971
+Guinea-Bissau 11.803749 -15.180413
+Guyana 4.860416 -58.93018
+Vietnam 14.058324 108.277199
+Zimbabwe -19.015438 29.154857
+Lebanon 33.854721 35.862285
+Honduras 15.199999 -86.241905
+Croatia 45.1 15.2
+Haiti 18.971187 -72.285215
+Hungary 47.162494 19.503304
+Indonesia -0.789275 113.921327
+Ireland 53.41291 -8.24389
+Palestine Cyprus
+Italy Germany
+Djibouti Dominica
+Denmark Iraq
+Algeria Ecuador
+Estonia Egypt
+Colombia Eritrea
+Spain Ethiopia
+Finland Fiji
+Cuba Venezuela
+Chile France
+Gabon India
+Thailand Georgia
+Ireland Russia
+Ghana Philippines
+Greenland Gambia
+Guinea Oman
+Japan Greece
+Kuwait Ghana
+Guatemala New-Zealand
+Guinea-Bissau Guyana
+Vietnam Zimbabwe
+Lebanon Honduras
+Croatia Haiti
+Hungary India
+Thailand Ireland
+Russia Ghana
+Philippines Greenland
+Oman Gambia
+Kuwait Guinea
+Vietnam Guinea-Bissau
+Lebanon Guyana
+Italy France
+Egypt Estonia
+Ecuador Algeria
+Denmark Cyprus
+Eritrea Colombia
+Ethiopia Spain
+Oman Japan
+Guinea Guatemala
+Guinea-Bissau Vietnam
+India Gabon
+Philippines Ghana
+Denmark Djibouti
+Cyprus Dominica
+Venezuela Chile
+France Gabon
+India Thailand
+Georgia Ireland
+Gambia Oman
+Japan Kuwait
+Vietnam Guinea-Bissau
+Cyprus Egypt
+Ecuador Eritrea
+Ethiopia Finland
+Cuba France
+Chile Gabon
+Ethiopia France
+Fiji Chile
+Cuba Venezuela
+Gabon Ecuador
+India Egypt
+Thailand Estonia
+Georgia Germany
+Russia Greece
+Gambia Guinea
+Oman Guinea-Bissau

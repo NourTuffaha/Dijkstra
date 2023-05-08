@@ -1,0 +1,145 @@
+49 95
+USA 200.0 277.0
+Mexico 200 341
+Brazil 340 412
+Argentina 316 484
+Peru 285 445
+Colombia 285 397
+Russia 809 193
+China 864 312
+India 752 346
+Pakistan 723 327
+Malaysia 864 405
+Algeria 527 333
+Libya 581 334
+Egypt 604 323
+Mongolia 828 261
+Kazakhstan 721 256
+Finland 604 171
+Sweden 561 196
+Norway 545 178
+UK 511 224
+Spain 504 270
+Mali 504 341
+Niger 550 343
+Germany 545 243
+South_Korea 906 291
+Japan 939 289
+Madagascar 654 468
+South_Africa 589 489
+Vietnam 845 371
+Morocco 494 300
+Portugal 490 282
+Ecuador 274 408
+Chile 293 522
+New_Zealand 1033 550
+Ukraine 606 244
+France 516 246
+Sudan 606 355
+Ethiopia 635 371
+Turkey 630 283
+Italy 545 260
+Zambia 593 443
+Kingdom_of_Kongo 591 427
+Iran 668 307
+Iraq 647 297
+Indonesia 827 408
+Saudi_Arabia 646 347
+Oman 692 336
+Mauritania 485 338
+Green_Land 395 101
+Peru Argentina
+Argentina Chile
+Peru Brazil
+Brazil Argentina
+Norway Sweden
+Spain Portugal
+Egypt Libya
+Libya Algeria
+Algeria Mali
+Mauritania Mali
+Mali Mauritania
+Mali Algeria
+Sudan Ethiopia
+Sudan Niger
+Niger Algeria
+Egypt Turkey
+Egypt Iran
+Egypt Iraq
+Egypt Saudi_Arabia
+Egypt Pakistan
+Turkey Egypt
+Turkey Spain
+Turkey Norway
+Turkey Iran
+Turkey Iraq
+Turkey Algeria
+Turkey USA
+Turkey Pakistan
+Turkey Saudi_Arabia
+Saudi_Arabia Iran
+Saudi_Arabia Egypt
+Saudi_Arabia Turkey
+Saudi_Arabia Iraq
+Saudi_Arabia USA
+China Brazil
+China Malaysia
+China Japan
+China Saudi_Arabia
+China Mongolia
+China Kazakhstan
+Mongolia Kazakhstan
+Mongolia China
+Mongolia Japan
+Kazakhstan China
+Kazakhstan Turkey
+Kazakhstan Ukraine
+Ukraine Kazakhstan
+India China
+India Japan
+India Mongolia
+India Malaysia
+India Kazakhstan
+Green_Land Norway
+Green_Land UK
+Norway Green_Land
+UK Green_Land
+UK USA
+UK Spain
+Spain UK
+Finland Spain
+Finland Ukraine
+Finland Norway
+Norway Finland
+Finland UK
+UK Finland
+Brazil Spain
+Chile Brazil
+Egypt China
+Egypt Italy
+Japan China
+Japan Mongolia
+Japan Malaysia
+Japan South_Korea
+South_Korea Japan
+South_Korea China
+South_Korea Indonesia
+China Indonesia
+Peru China
+Brazil Peru
+Iraq Iran
+China Ethiopia
+Ethiopia China
+Malaysia Ethiopia
+Ethiopia Libya
+Malaysia Indonesia
+Indonesia Malaysia
+Brazil USA
+Algeria Brazil
+Sweden Finland
+Turkey Ukraine
+Ukraine Turkey
+Iran China
+USA China
+Iraq Algeria
+USA Russia
